@@ -9,6 +9,6 @@ Exemplo simples de flask com Machine Learning
 
 4- source env/bin/activate
 
-5- python install < requirements.txt
+5- python install -r requirements.txt
 
 6- python app.py
